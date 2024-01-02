@@ -31,7 +31,10 @@ Person person = new Person("Alice", 30);
 
 ## Requirements
 
-1. Comment your name on your main class of your project.
+1. Create a new project with the name of GA_Class_***YourName***
+    - We use console for this example. But the code we write will work on Console, Winforms, WPF forms, etc... You are welcome to use another framework as long as you do the requirements. 
+
+2. Comment your name on your main class of your project.
 
 ```csharp
     class Program {
@@ -42,19 +45,19 @@ Person person = new Person("Alice", 30);
     }
 ```
 
-2. Make sure your code properly builds and runs ( no compile errors. )
+3. Make sure your code properly builds and runs ( no compile errors. )
 
-3. Follow the Step by Step instructions
+4. Follow the Step by Step instructions
 - Create a new class `Student`
 - Create two instances of that class in `Program.cs`
 - Create a new class `Professor`
 - Create an instance of `Professor`
 
-4. Create you own class
+5. Create you own class
 - Create a class of your choice. A class can be anything.
 - Ex. Towel, Watch, Player, Vehicle
 
-5. Submit your GitHub repository online
+6. Submit your GitHub repository online
  
 ---
 
