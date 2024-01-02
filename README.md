@@ -24,7 +24,7 @@ Objects are instances of a class. They are created using the `new` keyword follo
 
 **Example: Creating and Using an Object**
 ```csharp
-Person person = new Person("Alice", 30);
+Person person = new Person();
 ```
 
 ---
