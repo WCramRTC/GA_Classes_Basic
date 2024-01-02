@@ -59,7 +59,7 @@ Person person = new Person("Alice", 30);
 ---
 
 **Video Walkthough**   
-[<img src="https://i.ytimg.com/vi/NMQMtGv_Efg/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=NMQMtGv_Efg)
+https://www.youtube.com/watch?v=NMQMtGv_Efg
 
 
 ## Step By Step
