@@ -105,7 +105,7 @@ The format for creating a `new` instance is the class name, then the variable na
 
 ![New Class](Images/NewClass.gif)
 
-### Final Step - Creat your own class
+### Final Step - Create your own class
 
 Now that you've added 2 class, add your own. You will end up making hundreds and thousands in your career, so nows the time to get started. Make it about what everyone you want right now. You can always delete a class if you decide you don't need it. 
 
@@ -113,6 +113,10 @@ Remember
 - Upper Case
 - No spaces
 - Singular
+
+### Submission
+
+Submit your github repository link in the text box on canvas
 
 --- 
 
